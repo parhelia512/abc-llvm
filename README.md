@@ -705,3 +705,11 @@ continue-statement = "continue" ";"
   goto-statement = "goto" identifier ";"
 label-definition = "label" identifier ":"
 ```
+
+
+## License
+
+Copyright (C) 2023-2026 Michael C. Lehn, Ulm University
+
+This project is licensed under the GNU General Public License
+version 3 or later. See [LICENSE](LICENSE) for details.
